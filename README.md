@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# Sai Pranav A
+I solve problems using Data Science tools.
 
-You can use the [editor on GitHub](https://github.com/saipranava/saipranava.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Projects:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Refining the Wealth Index developed by The DHS Program.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saipranava/saipranava.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The DHS program in collaboration with other organisations conducts the National Family and Household survery, once every 10 years in India. One of the uses of this survey is to develop a wealth index to understand the unique problems faced by different sections of the society. In my first project, I'm going to analyse and refine the wealth index to be more accurate and representative of all kinds of demography.
